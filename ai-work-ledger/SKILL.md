@@ -1,5 +1,3 @@
-Here’s the complete file — copy all of it:
-
 <!--
 HOW TO USE THIS SKILL
 
