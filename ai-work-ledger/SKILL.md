@@ -11,7 +11,7 @@ HOW TO USE THIS SKILL
 No coding required. Works with Claude.ai Pro or Team plans.
 Questions? Find me at linkedin.com/in/melissahoneycutt
 -->
------
+---
 
 name: ai-work-ledger
 description: >
