@@ -3,7 +3,19 @@
 A Claude skill that generates a structured career asset entry at the close of any substantive AI-assisted work session.
 
 Every entry serves three functions at once: portfolio evidence, portable context seed, and capability proof statement you can use in interviews, proposals, or bios.
+<!--
+HOW TO USE THIS SKILL
 
+1. Click the "Raw" button on this page to see the plain text file
+2. Select all → Copy
+3. In Claude, open or create a Project
+4. Go to Project Settings → add a new instruction file
+5. Paste the contents and save
+6. Done — trigger it by saying "log this session" at the end of any work session
+
+No coding required. Works with Claude.ai Pro or Team plans.
+Questions? Find me at linkedin.com/in/melissahoneycutt
+-->
 ---
 
 ## What It Does
