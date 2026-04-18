@@ -12,7 +12,6 @@ No coding required. Works with Claude.ai Pro or Team plans.
 Questions? Find me at linkedin.com/in/melissahoneycutt
 -->
 ---
-
 name: ai-work-ledger
 description: >
 Generate a structured career asset entry at the end of any substantive AI-assisted work session.
