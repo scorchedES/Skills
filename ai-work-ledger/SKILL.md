@@ -157,6 +157,32 @@ Rate: High / Medium / Low — one sentence rationale.]
 END ENTRY
 
 
+
+### Reader-Friendly Transformation (Optional)
+
+If the user selects readable format:
+
+Apply the following transformations AFTER generating the entry:
+
+1. Move Impact to the top of the entry
+2. Convert Impact from sentence format to bullet points
+3. Replace section titles as follows:
+
+- WHAT WAS BUILT → What I Built
+- DECISIONS MADE → Key Decisions
+- HUMAN DIRECTION VS. AI CONTRIBUTION → My Role vs AI Support
+- CONTEXT ENCODED → What This System Is Designed For
+- PORTFOLIO PROOF STATEMENT → What This Demonstrates
+- REUSE VALUE → Where This Can Be Used Again
+- FITNESS FUNCTION → Is This Worth Continuing?
+- WHY THIS MATTERS → Why This Matters
+
+4. Simplify language for readability
+5. Break long paragraphs into bullet points where helpful
+6. Emphasize real-world meaning over internal phrasing
+
+Do not remove content. Only transform presentation.
+
 ---
 
 ## Step 4: Platform Export Block
