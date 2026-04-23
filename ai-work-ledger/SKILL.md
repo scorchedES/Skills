@@ -1,32 +1,63 @@
-<!--
-HOW TO USE THIS SKILL
+# AI Work Ledger
 
-1. Click the "Raw" button on this page to see the plain text file
-2. Select all → Copy
-3. In Claude, open or create a Project
-4. Go to Project Settings → add a new instruction file
-5. Paste the contents and save
-6. Done — trigger it by saying "log this session" at the end of any work session
+Generate a structured career asset entry at the end of any meaningful AI-assisted work session.
 
-No coding required. Works with Claude.ai Pro or Team plans.
-Questions? Find me at linkedin.com/in/melissahoneycutt
--->
+Captures:
+- what was built  
+- key decisions  
+- context and reasoning  
+- a reusable portfolio proof statement  
+
+Automatically removes sensitive information before export and formats output for reuse across Notion, Obsidian, Google Docs, or Markdown.
+
 ---
+
+## When This Triggers
+
+This skill activates when you say things like:
+
+- "log this session"  
+- "add this to my portfolio"  
+- "capture this work"  
+- "create a ledger entry"  
+- "document this build"  
+- "end of session"  
+- "save this to my work ledger"  
+- "export this entry"  
+
+It also triggers naturally when:
+- a meaningful deliverable is completed  
+- you ask to save or summarize work  
+- you say something like: "can you save what we did?"
+
+---
+
+## How to Use This Skill
+
+1. Click the **Raw** button on this page  
+2. Select all → copy  
+3. Open Claude and create or open a Project  
+4. Go to Project Settings → add a new instruction file  
+5. Paste this file and save  
+6. Use it by saying: **"log this session"** at the end of your work  
+
+No coding required. Works with Claude Pro or Team plans.
+
+---
+
 name: ai-work-ledger
 description: >
-  Generate a structured career asset entry at the end of any substantive AI-assisted work session.
-  Captures what was built, how decisions were made, what context was encoded, and produces a
-  portable capability proof statement for portfolio and interviews. Automatically scrubs
-  proprietary and identifying information before export. Asks which platform to export to
-  before generating output. Works across any industry or role.
+  Generate a structured career asset entry at the end of an AI-assisted work session.
 
-  ALWAYS trigger this skill when the user says any of the following: "log this session",
-  "add to my portfolio", "capture this work", "create a ledger entry", "document this build",
-  "end of session", "save this to my work ledger", or "export this entry". Also trigger at
-  natural session closes when the user has completed a substantive deliverable (document,
-  workflow, strategy, system, prompt set, analysis, audit output, training material)
-  and asks to save or record it. Even casual phrasing ("can you save what we did?") is a
-  ledger trigger.
+  Captures:
+  - what was built
+  - key decisions
+  - context and reasoning
+  - a reusable portfolio proof statement
+
+  Automatically removes sensitive information before export and formats output for reuse across Notion, Obsidian, Google Docs, or Markdown.
+
+  Trigger this skill when the user asks to log, save, document, or export their work, or at natural session close after completing a meaningful deliverable.
 ---
 
 # AI Work Ledger
