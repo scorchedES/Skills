@@ -52,6 +52,42 @@ Every entry serves three functions at once: portfolio evidence, portable context
 
 ---
 
+## Output Format
+
+This skill generates entries designed to be easy to understand for non-technical readers while preserving clear system thinking.
+
+### Formatting Rules
+
+- Keep Impact at the top of every entry  
+- Format Impact as bullet points, not sentence structure  
+- Use short, scannable bullet points throughout  
+- Prefer plain language over technical or internal phrasing  
+- Emphasize real-world outcomes and decisions  
+- Write for clarity and readability  
+
+### Section Titles
+
+Use these section names:
+
+- What I Built  
+- Key Decisions  
+- My Role vs AI Support  
+- What This System Is Designed For  
+- What This Demonstrates  
+- Where This Can Be Used Again  
+- Is This Worth Continuing?  
+- Why This Matters  
+
+### Output Improvements
+
+- Impact moved to the top of the entry  
+- Impact converted from sentence format to bullet points  
+- Section titles translated into plain language  
+- Technical or internal wording simplified  
+- Content optimized for fast scanning
+
+---
+
 ## Export Formats
 
 Notion / Obsidian / Google Docs / Markdown file / Manual copy
